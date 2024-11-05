@@ -1,4 +1,8 @@
 
+
+
+
+
 const products = [
   {
     id: 1,
@@ -11,7 +15,7 @@ const products = [
   {
     id: 2,
     name: 'Camiseta Local Chile 2024',
-    description: 'La camiseta de la selección chilena 2024 resalta en rojo vibrante, con detalles en azul y blanco que representan la bandera nacional.El escudo de la Asociación Nacional de Fútbol Profesional (ANFP).',
+    description: 'La camiseta de la selección chilena 2024 resalta en rojo vibrante, con detalles en azul y blanco que representan la bandera nacional. El escudo de la Asociación Nacional de Fútbol Profesional (ANFP).',
     price: 32000,
     image: 'https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/1b7c7dbd6f804dcf9388e2133ca1b639_9366/camiseta-local-chile-2024.jpg',
     category: 'Chile'
@@ -19,8 +23,8 @@ const products = [
   {
     id: 3,
     name: 'Camiseta Local Argentina 2024',
-    description: 'La camiseta de la selección argentina 2024 destaca por sus colores celeste y blanco, representando la bandera nacional. ',
-    price: 36000, 
+    description: 'La camiseta de la selección argentina 2024 destaca por sus colores celeste y blanco, representando la bandera nacional.',
+    price: 36000,
     image: 'https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/18a4bea5fb2b458f82eb019bb2c3da1e_9366/Camiseta_Argentina_24_Local_para_Hinchas_Blanco_IP8395_01_laydown.jpg',
     category: 'Argentina'
   },
@@ -51,4 +55,3 @@ const products = [
 ];
 
 export default products;
-
