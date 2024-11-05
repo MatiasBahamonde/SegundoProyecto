@@ -25,7 +25,7 @@ const products = [
     name: 'Camiseta Local Argentina 2024',
     description: 'La camiseta de la selección argentina 2024 destaca por sus colores celeste y blanco, representando la bandera nacional.',
     price: 36000,
-    image: 'https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/18a4bea5fb2b458f82eb019bb2c3da1e_9366/Camiseta_Argentina_24_Local_para_Hinchas_Blanco_IP8395_01_laydown.jpg',
+    image: 'public/Argentina.jpg',
     category: 'Argentina'
   },
   {
